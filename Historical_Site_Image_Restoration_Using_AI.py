@@ -615,7 +615,7 @@
       "cell_type": "code",
       "source": [
         "from huggingface_hub import login\n",
-        "login(token=\"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\")\n"
+        "login(token=\"your Token\")\n"
       ],
       "metadata": {
         "id": "nYGb4P9LqZW4"
